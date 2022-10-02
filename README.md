@@ -7,8 +7,10 @@ It
 Made with Android Studio Dolphin | 2021.3.1
 
 ## Usage
-read the first QR code parsed then exit 
-if the corresponding text is an URL, open it in a browser 
+read the first QR code parsed then exit
+
+if the corresponding text is an URL, open it in a browser
+
 else copy it in the clipboard 
 
 ## License
