@@ -2,7 +2,7 @@
 A basic, simple, open source, free, fast and ~all the bullshit they say on the Play Store~ QR Code scanner for Android.
 
 The main purpose of this project is to avoid bloatware and useless features. 
-It 
+I tried to make it the most lightweight possible.
 
 Made with Android Studio Dolphin | 2021.3.1
 
