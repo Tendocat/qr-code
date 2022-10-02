@@ -11,8 +11,9 @@ read the first QR code parsed then exit
 if the corresponding text is an URL, open it in a browser 
 else copy it in the clipboard 
 
+##License
 
-##  DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+        DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
                     Version 2, December 2004 
 
  Copyright (C) 2022 Antoine Dumoulin <contact@tendo.dev> 
